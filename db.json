@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "username": "user",
+      "password": "user123",
+      "favBlogs": [
+        7,
+        11,
+        12,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "user123",
+      "favBlogs": [
+        6,
+        7,
+        8,
+        12
+      ]
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "user123",
+      "favBlogs": [
+        2,
+        1
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "postedBy": "user",
+      "blogTitle": "Books On Web",
+      "blogCategory": "Books",
+      "blogContent": "Web",
+      "id": 5
+    },
+    {
+      "postedBy": "user",
+      "blogTitle": "pri",
+      "blogCategory": "Books",
+      "blogContent": "science text",
+      "id": 6
+    },
+    {
+      "postedBy": "user",
+      "blogTitle": "hello",
+      "blogCategory": "Food",
+      "blogContent": "hello ",
+      "id": 7
+    },
+    {
+      "postedBy": "user1",
+      "blogTitle": "Adventure",
+      "blogCategory": "Adventure",
+      "blogContent": "Himalya",
+      "id": 8
+    },
+    {
+      "postedBy": "user",
+      "blogTitle": "my passion",
+      "blogCategory": "Sports",
+      "blogContent": "Football",
+      "id": 9
+    },
+    {
+      "postedBy": "user",
+      "blogTitle": "google+",
+      "blogCategory": "Tech",
+      "blogContent": "google",
+      "id": 10
+    },
+    {
+      "postedBy": "user2",
+      "blogTitle": "movies",
+      "blogCategory": "Sci-fi",
+      "blogContent": "IMDB",
+      "id": 11
+    },
+    {
+      "postedBy": "user2",
+      "blogTitle": "Journey",
+      "blogCategory": "Adventure",
+      "blogContent": "road trip",
+      "id": 12
+    }
+  ]
+}
